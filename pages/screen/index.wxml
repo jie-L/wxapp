@@ -1,0 +1,5 @@
+<!--index.wxml-->
+<navigation-bar title="Screen" back="{{false}}" color="#000" background="#FF0"></navigation-bar>
+<view class="container" style="background: #FF0;color: #000;font-size: 40px;">
+  Screen
+</view>

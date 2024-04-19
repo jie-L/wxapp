@@ -1,0 +1,5 @@
+<!--index.wxml-->
+<navigation-bar title="Weixin" back="{{false}}" color="#fff" background="#448ef7"></navigation-bar>
+<view class="container" style="background: #448ef7;color: #fff;font-size: 40px;">
+  Weixin
+</view>
